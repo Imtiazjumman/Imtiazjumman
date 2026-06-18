@@ -26,15 +26,6 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </p>
-
----
-
-## 🏆 Profile Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Imtiazjumman&theme=onedark&column=4" alt="Imtiaz's Trophies" />
-</p>
-
----
 ---
 
 ## 📈 GitHub Dashboard & Analytics:
