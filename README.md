@@ -31,9 +31,10 @@
 
 ## 🏆 Profile Achievements:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imtiazjumman&theme=onedark&column=4" alt="Imtiaz's Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Imtiazjumman&theme=onedark&column=4" alt="Imtiaz's Trophies" />
 </p>
 
+---
 ---
 
 ## 📈 GitHub Dashboard & Analytics:
