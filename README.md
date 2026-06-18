@@ -1,16 +1,25 @@
-## Hi there 👋
+## 💻 Tech Stack:
 
-<!--
-**Imtiazjumman/Imtiazjumman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- You can add or remove badges here. Built using Shields.io -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+
+<p align="center">
+  <!-- GitHub Overall Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtiazjumman&show_icons=true&theme=dark&hide_border=false" alt="Imtiaz's GitHub Stats" width="48%" />
+
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiazjumman&theme=dark" alt="Imtiaz's Streak Stats" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiazjumman&layout=compact&theme=dark" alt="Imtiaz's Top Languages" width="60%" />
+</p>
