@@ -1,9 +1,3 @@
-<p align="center">
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Imtiaz;Data+Science+Enthusiast;Building+Machine+Learning+Models" alt="Typing SVG" />
-</p>
-
----
 
 ## 💻 Core Tech Stack:
 <p align="left">
