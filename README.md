@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Imtiaz Jumman 👋</h1>
+<h1 align="center">Hi there, I'm Imtiaz Ahmed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Spectral&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+Into+Real+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Raw+Data+Into+Real+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadimtiazahmed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imtiazahmed19999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammadimtiazahmed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:imtiazahmed19999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -18,75 +18,73 @@
 
 ## 🚀 About Me
 
-- 🌱 Sharpening my skills in **Machine Learning** and **Business Intelligence**
-- 💡 I love turning messy datasets into clean dashboards and clear stories
-- 📊 Comfortable across the full pipeline: collect → clean → analyze → visualize
-- 📫 Reach me at: **imtiazahmed19999@gmail.com**
+> **"Turning messy datasets into clean dashboards and compelling stories."**
+
+- 🌱 Currently sharpening my skills in **Machine Learning** and **Business Intelligence**.
+- 📊 Comfortable across the full data pipeline: **Collect ➔ Clean ➔ Analyze ➔ Visualize**.
+- 💼 Actively building portfolio projects involving deep data analysis and predictive modeling.
+- 📫 Reach me directly at: [imtiazahmed19999@gmail.com](mailto:imtiazahmed19999@gmail.com)
 
 <br>
 
-<h2 align="center">🛠 Core Tech Stack</h2>
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <strong>Core Languages & Web</strong><br>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h2 align="center">📊 Data Science & AI Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scipy-%238CA1AF.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-%233776ab.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <strong>Data Science & AI</strong><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CA1AF?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776ab?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-<h2 align="center">📈 BI & Excel Toolkit</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <strong>Business Intelligence & Analytics</strong><br>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
-  <br><br>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="DAX" />
-  <img src="https://img.shields.io/badge/VLOOKUP-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VLOOKUP" />
-  <img src="https://img.shields.io/badge/XLOOKUP-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="XLOOKUP" />
-  <img src="https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Pivot Tables" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <br>
 
-<h2 align="center">🎓 Certifications</h2>
+## 🎓 Certifications
+
+| 🏆 Certification | 🏢 Provider | 📌 Status |
+| :--- | :--- | :---: |
+| **Data Analyst Course** | Udemy | ✅ Completed |
+
+> *Mastered the fundamentals of Excel, SQL, Python, and data visualization techniques required for comprehensive business analytics.*
+
+<br>
+
+## 📊 GitHub Dashboard & Analytics
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Udemy-Data%20Analyst%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Data Analyst Certificate" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtiazjumman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiazjumman&theme=react&hide_border=true&background=0D1117" alt="Streak Stats" width="48%" />
 </p>
+
 <p align="center">
-  ✅ <b>Data Analyst Course</b> — Udemy <i>(completed)</i>
-  <br>
-  <sub>Covers Excel, SQL, Python, and data visualization fundamentals for analytics</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazjumman&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </p>
 
 <br>
 
-<h2 align="center">📌 GitHub Dashboard & Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiazjumman&theme=dark&hide_border=true" alt="Streak Stats" width="60%" />
-</p>
-
-<h2 align="center">🔥 Weekly Activity Flow</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazjumman&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </p>
 <p align="center">
-  <i>⭐ Thanks for stopping by — feel free to explore my repos and connect!</i>
+  <i>⭐ Thanks for stopping by — feel free to explore my repositories and connect! ⭐</i>
 </p>
