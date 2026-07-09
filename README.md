@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Imtiaz Ahmed 👋</h1>
+<h1 align="center">Hi there, I'm Imtiaz Jumman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Raw+Data+Into+Real+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Raw+Data+Into+Real+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -72,12 +72,12 @@
 ## 📊 GitHub Dashboard & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imtiazjumman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiazjumman&theme=react&hide_border=true&background=0D1117" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtiazjumman&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Imtiazjumman&theme=dark&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazjumman&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazjumman&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <br>
