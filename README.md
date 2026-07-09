@@ -77,12 +77,12 @@
 <h2 align="center" style="font-family: 'Cinzel', serif;">📊 GitHub Dashboard & Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imtiazjumman&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Imtiazjumman&theme=dark&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtiazjumman&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiazjumman&theme=dark&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazjumman&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazjumman&theme=github-compact&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <br>
